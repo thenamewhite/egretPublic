@@ -83,7 +83,7 @@ namespace ICarry {
 
 
 		public get scale9Grid() {
-			return this._scale9Grid || null
+			return this._scale9Grid
 		}
 
 
@@ -97,7 +97,7 @@ namespace ICarry {
 
 
 		public get font() {
-			return this._font || null
+			return this._font
 		}
 
 		/**
@@ -109,7 +109,7 @@ namespace ICarry {
 		}
 
 		public get fntBit() {
-			return this._fnt_bit || null
+			return this._fnt_bit
 		}
 
 
