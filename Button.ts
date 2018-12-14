@@ -38,7 +38,7 @@ namespace ICarry {
 			}
 			if (this.font) {
 				this.bit = new eui.BitmapLabel()
-				this.addChild(this.bi)
+				this.addChild(this.bit)
 				this.bit.font = this.font
 			}
 			else {
